@@ -1,0 +1,11 @@
+ID,paquete_id,cliente_id,fecha,calificacion,comentario
+1,201,1,2025-12-15,9,"Excelente experiencia, todo muy bien organizado."
+2,202,2,2025-11-18,8,"Muy buen tour, pero el transporte podría mejorar."
+3,203,3,2025-12-28,10,"Me encanto el destino y el alojamiento fue perfecto."
+4,204,4,2025-10-20,7,"Interesante viaje, aunque algunas actividades fueron agotadoras."
+5,205,5,2025-12-15,9,"Un safari inolvidable, superó mis expectativas."
+6,206,6,2025-11-25,6,"El clima no ayudó mucho, pero el tour fue bueno."
+7,207,7,2025-11-05,8,"Ciudades hermosas y guia muy amable."
+8,208,8,2025-09-30,7,"Me gusto pero esperaba mas variedad en el itinerario."
+9,209,9,2025-12-20,10,"Perfecto en todos los sentidos, recomendable 100%."
+10,210,10,2025-11-10,8,"Ruta cultural muy completa y bien organizada."
